@@ -1,2 +1,2 @@
 # betbumfarto
-gamble.bumfarto.org
+gambl.bumfarto.org
